@@ -1,14 +1,8 @@
-\# OSS Assignment
+# OSS Assignment
 
+**Hello, I'm Jeeho**
 
-
-\*Hello, I'm Jeeho\*
-
-
-
-\- I study CSE
-
-
+- I study CSE.
 
 
 
